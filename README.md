@@ -31,8 +31,6 @@ the api endpoint triggered our hub methods works.
 
 ![work gif](https://github.com/arslanaybars/SignalR.WebApi.Demo/blob/master/media/SignalR.WebApi.Demo.gif)
 
-![work gif](https://github.com/arslanaybars/SignalR.WebApi.Demo/blob/master/media/SignalR.WebApi.Demo.jpg)
-
 # Notes
 Dummy data is in the seed method. after you change the connection string. Run following command in nuget package manager console
 
@@ -42,6 +40,10 @@ then the database should be ready :)
 
 !! Check the Hub Connection IP in FormsController class 
 !! Check the Details.chtml redirection IP
+
+
+![work gif](https://github.com/arslanaybars/SignalR.WebApi.Demo/blob/master/media/SignalR.WebApi.Demo.jpg)
+
 
 ## References
 - Bora Kasmer: [mssql database ile signalR etkilesimleri](http://www.borakasmer.com/mssql-database-ile-signalr-etkilesimleri/)
