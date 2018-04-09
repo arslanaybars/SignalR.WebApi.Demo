@@ -8,7 +8,7 @@ This application prepared for training about SignalR and the following technolog
 - SQL Server
 - jQuery
 
-In our scenario, we have form pages while the user reading the forms if there is an updated from any other application (Desktop, Web, Mobile) to api our endpoint (api/forms with post method). We notify the user who is on the forms detail page and have admin permission. If the user would like to new added form we showed him/her the created form after he confirms to redirection.
+In our scenario, we have form pages while the user reading the forms if there is an updated (from any other application Desktop, Web, Mobile) our API endpoint (API/forms with a post). We notify the user who is on the form detail page and if he/she has a admin permission and If the user would like to see newly added form we showed him/her the created form after he confirm to redirection from popup.
 
 example json request to our endpoint
 
